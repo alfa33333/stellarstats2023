@@ -1,0 +1,12 @@
+---
+title: "About"
+---
+
+This year's Stellar Stats workshop aims to continue strengthening connections between the Statistics and Astronomy communities at U of T with a focus on research questions, types of data and data challenges, and methodologies. Our organizing theme this year is "Inference under Pressure", with a focus on solving inference challenges that are shared across statistics and astronomy (e.g., censorship, small sample sizes, sampling bias, MCMC, etc.).
+
+## Organizers
+Department of Astronomy & Astrophysics (DoAA) and the Department of Statistical Sciences (DoSS)
+
+*  [Assistant Professor Josh Speagle](https://joshspeagle.com/) 
+*  [Assistant Professor Gwendolyn Eadie](https://www.astro.utoronto.ca/ ~eadie/intro.html) 
+*  [Dr. Antonio Herrera Martin](https://alfa33333.github.io/)

@@ -1,0 +1,86 @@
+---
+title: "2023 Stellar Stats Workshop"
+---
+# Inference Under Pressure
+**Date: Thursday, May 4, 2023** 
+
+## Location
+Cherry Room (9016), Department of Statistical Sciences, 700 University Avenue. <br>
+**Online:** Zoom link send by email
+ <!-- [https://utoronto.zoom.us/j/89641379420](https://utoronto.zoom.us/j/89641379420) (Passcode: 226381) -->
+
+## Morning Invited Talks (10:00 - 11:20)
+
+10:00 - 10:05		| Opening remarks ([Antonio Herrera Martin](https://alfa33333.github.io/))
+
+10:05 - 10:25 		| [Ting Li](https://sazabi4.github.io/), Astro <br>
+*Searching the faintest galaxies and star clusters with petabytes of data in the next decade*
+
+10:25 - 10:45		| [Elena Tuzhilina](https://elenatuzhilina.github.io/), Stats<br>
+ _Canonical Correlation Analysis in high dimensions with structured regularization_
+
+10:45 - 11:05	|	[Josh Speagle](https://joshspeagle.com/), Stats/Astro<br>
+_SBI++: Simulation-based Inference with Out-of-Distribution Measurement Uncertainties and Missing Data_
+
+#### <span style="color:blue"> 11:05 - 11:30	|	Break / Connect </span> 
+
+
+## Morning Lightning Talks (11:30 - 12:00)
+
+11:30 - 11:37		| Phil Van-Lane, Astro<br>
+                _A data-driven inference model for stellar age estimation using gyrochronology_
+
+11:37 - 11:44	|	Emily Somerset, Stats<br>
+                _A Spatio-Temporal Framework for Modelling Wastewater SARS-CoV-2 Concentration_
+
+11:44 - 11:51	|	Sam Berek, Astro<br>
+                _The HERBAL model: A hierarchical errors-in-variables Bayesian lognormal hurdle model for galactic globular cluster populations_
+
+11:51 - 11:58	|	Grace Yu, Stats<br>
+                _Mapping the Milky Way halo with Blue Horizontal Branch stars_
+
+## Lunch (12:00 - 13:30)
+
+12:00 - 13:30		Catered lunch
+
+## Afternoon Lightning Talks (13:30 - 14:00) 
+
+13:30 - 13:37	|	Garett Brown, Astro
+_Long-term Solar System Survival (Analysis)_
+
+13:37 - 13:44	|	Ishika Bangari, Astro
+_Population synthesis of fast radio bursts_
+
+13:44 - 13:51	|	Keir Rogers, Astro
+_Using cosmological emulators to accelerate the search for dark matter_
+
+13:51 - 13:58	|	Sonia Markes, Stats
+_Effect of the Infield Shift: Causal Inference in Baseball_
+
+#### <span style="color:blue"> 14:00 - 14:15	|	Break / Connect </span>
+
+## Afternoon Invited Talks (14:15 - 16:30)
+
+14:15 - 14:35		[Adam Muzzin](https://www.yorku.ca/professor/muzzin/), Astro
+_TBD (JWST-related)_
+
+14:35 - 14:55		[Jeff Rosenthal](http://probability.ca/jeff/), Stats
+_TBD (MCMC-related)_
+
+14:55 - 15:15		[Laura Rosella](https://www.dlsph.utoronto.ca/faculty-profile/rosella-laura-c/), DSI (Associate Director, Training)
+_Year 2 Update on the Data Sciences Institute_
+
+#### <span style="color:blue"> 15:15 - 15:30		Break / Connect </span>
+
+15:30 - 15:50	|	[Marta Bryan](https://w.astro.berkeley.edu/~martalbryan/), Astro
+_TBD (Exoplanet-related)_
+
+15:50 - 16:10	|	[Stanislav Volgushev](https://utstat.toronto.edu/stanislav/), Stats
+_TBD_
+
+16:10 - 16:15	|	Concluding remarks ([Gwen Eadie](https://www.astro.utoronto.ca/~eadie/intro.html))
+
+## Open Discussion (16:15 - 17:00)
+
+16:15 - 17:00		Open Discussion Period
+
