@@ -61,8 +61,8 @@ _Effect of the Infield Shift: Causal Inference in Baseball_
 
 ## Afternoon Invited Talks (14:15 - 16:30)
 
-14:15 - 14:35	|	[Adam Muzzin](https://www.yorku.ca/professor/muzzin/), Astro<br>
-_TBD (JWST-related)_
+14:15 - 14:35	|	[Marta Bryan](https://w.astro.berkeley.edu/~martalbryan/), Astro<br>
+_TBD (Exoplanet-related)_
 
 14:35 - 14:55	|	[Jeff Rosenthal](http://probability.ca/jeff/), Stats<br>
 _TBD (MCMC-related)_
@@ -72,8 +72,8 @@ _Year 2 Update on the Data Sciences Institute_
 
 #### <span style="color:blue"> 15:15 - 15:30		Break / Connect </span>
 <br>
-15:30 - 15:50	|	[Marta Bryan](https://w.astro.berkeley.edu/~martalbryan/), Astro<br>
-_TBD (Exoplanet-related)_
+15:30 - 15:50	|	[Lamiya Mowla](https://www.lamiyamowla.com), Astro<br>
+_TBD (JWST-related)_
 
 15:50 - 16:10	|	[Stanislav Volgushev](https://utstat.toronto.edu/stanislav/), Stats<br>
 _TBD_
