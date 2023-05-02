@@ -61,17 +61,17 @@ _Effect of the Infield Shift: Causal Inference in Baseball_
 
 ## Afternoon Invited Talks (14:15 - 16:30)
 
-14:15 - 14:35		[Adam Muzzin](https://www.yorku.ca/professor/muzzin/), Astro
+14:15 - 14:35	|	[Adam Muzzin](https://www.yorku.ca/professor/muzzin/), Astro
 _TBD (JWST-related)_
 
-14:35 - 14:55		[Jeff Rosenthal](http://probability.ca/jeff/), Stats
+14:35 - 14:55	|	[Jeff Rosenthal](http://probability.ca/jeff/), Stats
 _TBD (MCMC-related)_
 
-14:55 - 15:15		[Laura Rosella](https://www.dlsph.utoronto.ca/faculty-profile/rosella-laura-c/), DSI (Associate Director, Training)
+14:55 - 15:15	|	[Laura Rosella](https://www.dlsph.utoronto.ca/faculty-profile/rosella-laura-c/), DSI (Associate Director, Training)
 _Year 2 Update on the Data Sciences Institute_
 
 #### <span style="color:blue"> 15:15 - 15:30		Break / Connect </span>
-
+<br>
 15:30 - 15:50	|	[Marta Bryan](https://w.astro.berkeley.edu/~martalbryan/), Astro
 _TBD (Exoplanet-related)_
 
