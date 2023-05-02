@@ -45,37 +45,37 @@ _SBI++: Simulation-based Inference with Out-of-Distribution Measurement Uncertai
 
 ## Afternoon Lightning Talks (13:30 - 14:00) 
 
-13:30 - 13:37	|	Garett Brown, Astro
+13:30 - 13:37	|	Garett Brown, Astro<br>
 _Long-term Solar System Survival (Analysis)_
 
-13:37 - 13:44	|	Ishika Bangari, Astro
+13:37 - 13:44	|	Ishika Bangari, Astro<br>
 _Population synthesis of fast radio bursts_
 
-13:44 - 13:51	|	Keir Rogers, Astro
+13:44 - 13:51	|	Keir Rogers, Astro<br>
 _Using cosmological emulators to accelerate the search for dark matter_
 
-13:51 - 13:58	|	Sonia Markes, Stats
+13:51 - 13:58	|	Sonia Markes, Stats<br>
 _Effect of the Infield Shift: Causal Inference in Baseball_
 
 #### <span style="color:blue"> 14:00 - 14:15	|	Break / Connect </span>
 
 ## Afternoon Invited Talks (14:15 - 16:30)
 
-14:15 - 14:35	|	[Adam Muzzin](https://www.yorku.ca/professor/muzzin/), Astro
+14:15 - 14:35	|	[Adam Muzzin](https://www.yorku.ca/professor/muzzin/), Astro<br>
 _TBD (JWST-related)_
 
-14:35 - 14:55	|	[Jeff Rosenthal](http://probability.ca/jeff/), Stats
+14:35 - 14:55	|	[Jeff Rosenthal](http://probability.ca/jeff/), Stats<br>
 _TBD (MCMC-related)_
 
-14:55 - 15:15	|	[Laura Rosella](https://www.dlsph.utoronto.ca/faculty-profile/rosella-laura-c/), DSI (Associate Director, Training)
+14:55 - 15:15	|	[Laura Rosella](https://www.dlsph.utoronto.ca/faculty-profile/rosella-laura-c/), DSI (Associate Director, Training)<br>
 _Year 2 Update on the Data Sciences Institute_
 
 #### <span style="color:blue"> 15:15 - 15:30		Break / Connect </span>
 <br>
-15:30 - 15:50	|	[Marta Bryan](https://w.astro.berkeley.edu/~martalbryan/), Astro
+15:30 - 15:50	|	[Marta Bryan](https://w.astro.berkeley.edu/~martalbryan/), Astro<br>
 _TBD (Exoplanet-related)_
 
-15:50 - 16:10	|	[Stanislav Volgushev](https://utstat.toronto.edu/stanislav/), Stats
+15:50 - 16:10	|	[Stanislav Volgushev](https://utstat.toronto.edu/stanislav/), Stats<br>
 _TBD_
 
 16:10 - 16:15	|	Concluding remarks ([Gwen Eadie](https://www.astro.utoronto.ca/~eadie/intro.html))
