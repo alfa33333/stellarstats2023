@@ -59,7 +59,7 @@ _Effect of the Infield Shift: Causal Inference in Baseball_
 
 #### <span style="color:blue"> 14:00 - 14:15	|	Break / Connect </span>
 
-## Afternoon Invited Talks (14:15 - 16:30)
+## Afternoon Invited Talks (14:15 - 15:40)
 
 14:15 - 14:35	|	[Marta Bryan](https://w.astro.berkeley.edu/~martalbryan/), Astro<br>
 _TBD (Exoplanet-related)_
