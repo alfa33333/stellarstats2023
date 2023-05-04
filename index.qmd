@@ -70,17 +70,12 @@ _TBD (MCMC-related)_
 14:55 - 15:15	|	[Laura Rosella](https://www.dlsph.utoronto.ca/faculty-profile/rosella-laura-c/), DSI (Associate Director, Training)<br>
 _Year 2 Update on the Data Sciences Institute_
 
-#### <span style="color:blue"> 15:15 - 15:30		Break / Connect </span>
-<br>
-15:30 - 15:50	|	[Lamiya Mowla](https://www.lamiyamowla.com), Astro<br>
-_TBD (JWST-related)_
-
-15:50 - 16:10	|	[Stanislav Volgushev](https://utstat.toronto.edu/stanislav/), Stats<br>
+15:15 - 15:35	|	[Stanislav Volgushev](https://utstat.toronto.edu/stanislav/), Stats<br>
 _TBD_
 
-16:10 - 16:15	|	Concluding remarks ([Gwen Eadie](https://www.astro.utoronto.ca/~eadie/intro.html))
+15:35 - 15:40	|	Concluding remarks ([Gwen Eadie](https://www.astro.utoronto.ca/~eadie/intro.html))
 
-## Open Discussion (16:15 - 17:00)
+## Open Discussion (15:40 - 16:30)
 
-16:15 - 17:00		Open Discussion Period
+15:40 - 16:30		Open Discussion Period
 
